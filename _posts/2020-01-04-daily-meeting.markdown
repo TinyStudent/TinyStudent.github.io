@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daily Meeting 2020.01.04"
-date:   Timestamp
+date:   Time Stamp
 categories: daily-meeting
 author: ""
 ---
