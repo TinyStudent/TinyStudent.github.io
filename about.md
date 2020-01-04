@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <h2>About</h2>
-<strong><h3>Contributors of the tiny blog</h3></strong>
+<strong>Contributors of the tiny blog</strong>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
