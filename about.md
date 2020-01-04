@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <h2>About</h2>
-<strong><p>Contributors of the tiny blog</p><strong>
+<strong><h3>Contributors of the tiny blog</h3></strong>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -13,7 +13,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -26,7 +28,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -39,7 +43,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: github.com/Myoung-heeSeo
      </div>
   </p>
@@ -52,7 +58,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -65,7 +73,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -78,7 +88,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -91,7 +103,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
@@ -104,7 +118,9 @@ permalink: /about/
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
+        <br>  
         2020 SV Bootcamp member
+        <br>
         Github Link: 
      </div>
   </p>
