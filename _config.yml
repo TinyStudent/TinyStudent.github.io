@@ -8,7 +8,7 @@
 # Site settings
 title: Tiny Blog
 email: hemangsk@gmail.com
-description: The blog build by tiny students of 2020 Boot Camp
+description: The blog built by tiny students of 2020 Boot Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tinystudent.github.io" # the base hostname & protocol for your site
 github_username:  TinyStudent
