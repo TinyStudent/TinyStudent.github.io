@@ -9,7 +9,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Min-su Kwon</strong>
+  <strong># Min-su Kwon</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -24,7 +24,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Yun-hyeok Kwak</strong>
+  <strong># Yun-hyeok Kwak</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -54,7 +54,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Seong-jae Song</strong>
+  <strong># Seong-jae Song</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -69,7 +69,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Yeo-hwan Yoon</strong>
+  <strong># Yeo-hwan Yoon</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -84,7 +84,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Hye-jin Lee</strong>
+  <strong># Hye-jin Lee</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -99,7 +99,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Sang-geon Yun</strong>
+  <strong># Sang-geon Yun</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
@@ -114,7 +114,7 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Si-hyun Lee</strong>
+  <strong># Si-hyun Lee</strong>
   </div>
   <p><div class="manual-content">
         Kookmin Univ.
