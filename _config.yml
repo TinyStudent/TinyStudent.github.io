@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
+title: Tiny Blog
 email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+description: The blog build by tiny students of 2020 Boot Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tinystudent.github.io" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+github_username:  TinyStudent
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
