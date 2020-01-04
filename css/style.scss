@@ -447,15 +447,16 @@ pre {
   letter-spacing: 1px;
 }
 .footer-col {
-  float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
 .footer-col-1 {
+  float: left;
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
   width: calc(35% - (#{$spacing-unit} / 2));
 }
 .footer-col-2 {
+  float: right;
   width: -webkit-calc(65% - (#{$spacing-unit} / 2));
   width: calc(20% - (#{$spacing-unit} / 2));
   text-align: right;
