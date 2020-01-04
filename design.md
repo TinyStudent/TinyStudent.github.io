@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
+title: Daily Meeting
+permalink: /daily-meeting/
+category: "daily-meeting"
 tagline: "it's all about perception."
 ---
