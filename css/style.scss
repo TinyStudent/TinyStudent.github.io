@@ -253,6 +253,7 @@ pre {
   font-size: 18px;
   font-weight: 300;
   padding-top: 0;
+  float: left;
 }
 .home{
   padding-bottom: 5em;
@@ -510,8 +511,8 @@ pre {
  * Posts
  */
 .post-header {
-  float: left;
   margin-bottom: $spacing-unit;
+  
 }
 .post-title {
   font-size: 50px;
