@@ -6,7 +6,7 @@ layout: default
 
 
   {% for post in paginator.posts%}
-  <div class="post postContent">
+  <article class="post postContent">
     <div class="postTag">
       {{post.tag}}
     </div>
@@ -20,7 +20,7 @@ layout: default
     <!-- <div class="postExt">
    {{ post.content | strip_html | truncate:200}}
     </div> -->
-  </div>
+  </article>
 
   {% endfor %}
   {% if paginator.total_pages > 1 %}
