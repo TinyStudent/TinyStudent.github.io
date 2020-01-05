@@ -18,11 +18,12 @@ layout: page
   <div class="postTitle">
   <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   </div>
+  <br>
   <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
   </div>
-  <div class="postExt">
+  <!-- <div class="postExt">
     {{post.excerpt}}
-  </div>
+  </div> -->
 </div>
 {% endif %}
 {% endfor %}
