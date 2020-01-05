@@ -529,18 +529,21 @@ pre {
     font-size: 1.5rem;
   }
   h2 {
+      font-family: 'PT Sans';
     font-size: 32px;
     @include media-query($on-laptop) {
       font-size: 28px;
     }
   }
   h3 {
+    font-family: 'PT Sans';
     font-size: 26px;
     @include media-query($on-laptop) {
       font-size: 22px;
     }
   }
   h4 {
+    font-family: 'PT Sans';
     font-size: 20px;
     @include media-query($on-laptop) {
       font-size: 18px;
