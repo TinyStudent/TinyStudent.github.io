@@ -256,7 +256,6 @@ pre {
   font-size: 18px;
   font-weight: 300;
   padding-top: 0;
-  text-align: left;
 }
 .home{
   padding-bottom: 5em;
@@ -512,15 +511,13 @@ pre {
   font-size: 24px;
 }
 
-.page-content .post-header {
-  test-align: left
-}
 /**
  * Posts
  */
 .post-header {
   margin-bottom: $spacing-unit;
   margin-top: 10px;
+  text-align: left;
 }
 .post-title {
   font-size: 40px;
