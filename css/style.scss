@@ -516,7 +516,7 @@ pre {
  */
 .post-header {
   margin-bottom: $spacing-unit;
-  
+  margin-top: 10px;
 }
 .post-title {
   font-size: 40px;
@@ -524,7 +524,6 @@ pre {
   text-align: center;
   font-family: 'PT Sans';
   font-weight: 700;
-  margin-top: 20px;
   @include media-query($on-laptop) {
     font-size: 36px;
   }
