@@ -39,3 +39,9 @@ author: "Min Su"
   - Taking uber when going to home is a real innovation
   - Finished React tutorial from Velopert, was funny but need to learn more about it
   - Also have to work on GraphQL and Apollo
+
+- Sang-geon
+  - Finally monday!
+  - I studied React yesterday, and I made mineweeper using React yesterday for practice: https://codesandbox.io/s/charming-boyd-7qlue?fontsize=14&hidenavigation=1&theme=dark
+  - And also, I studied Apollo with GraphQL today. I think, I learned almost everything about Apollo to make backend API.
+  - 🤔
