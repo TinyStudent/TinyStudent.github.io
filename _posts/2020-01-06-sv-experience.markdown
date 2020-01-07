@@ -3,7 +3,7 @@ layout: post
 title:  "SV Experience 2020.01.06"
 date:   2020-01-07 10:00:00 -0800
 categories: sv-experience
-author: "Min Su"
+author: "Min Su, Seong Jae"
 ---
 
 ## Lunch
@@ -71,3 +71,8 @@ author: "Min Su"
 - Min Su
   - it was a fun experience, the ferry and the lime!
   - i'm tired ...
+- Seong Jae
+  - It was very very very very worthful experience(Riding lime, View of Golden Gate, Ferry ..)
+  - Although it was so hard and tired, it was very beautiful landscape what i have never ever seen.
+  - And, I felt so good during talking to my friends in home.
+  - Oh, and we met Korean at Golden Gate Bridge. She was not good at ride a bike. It was funny time.
