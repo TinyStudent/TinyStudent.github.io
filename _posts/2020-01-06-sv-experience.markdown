@@ -66,3 +66,8 @@ author: "Min Su"
 ## Come back home
 - We bought some foods from Safeway at burlingame
 - had foods & drinks at home
+
+## Our thoughts
+- Min Su
+  - it was a fun experience, the ferry and the lime!
+  - i'm tired ...
