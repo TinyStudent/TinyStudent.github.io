@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Meeting 2020.01.05"
+title:  "SV Experience 2020.01.06"
 date:   2020-01-07 10:00:00 -0800
 categories: sv-experience
 author: "Min Su"
