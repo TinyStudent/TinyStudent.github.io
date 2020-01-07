@@ -21,6 +21,12 @@ author: "Min Su"
 
 ## Bicycle Team
 
+- Ride
+
+  ![yeohwan_bicycle](images/200106/yeohwan_bicycle.jpg)
+
+  ![bicycle_choolbal](images/200106/bicycle_choolbal.jpg)
+
 
 ## Non-bicycle Team
 - San Francisco Art Institute
@@ -28,11 +34,20 @@ author: "Min Su"
   - We went here to watch galleries of the Art Institute
     - Diego Rivera gallery had nothing exhibited...
     - Path to the McBean gallery was blocked due to the construction issue
+  
 - Souvenir shop
+  
+  ![souvenir](images/200106/souvenir.jpg)
+  
   - There were some interesting souvenirs, but it was too expensive to buy
+  
 - Ferry
+  
+  ![ontheferry](images/200106/ontheferry.jpg)
+  
   - we took ferry to go to sausalito, the ferry's route was 'angel island - tiburon - sausalito', so it took about 1 hour
   - the sight on the ferry was great!
+  
 - Lime
   - we tried Lime for the first time!
   - we needed time to adapt, but we got used to it!
@@ -40,7 +55,11 @@ author: "Min Su"
   - we met a lost korean girl, she wanted to go to golden gate bridge too
   - we parked our lime scooters at the vista point ... we might be charged $50 for illegal parking
   - but it was fun!
+  
 - Golden Gate Bridge
+  
+  ![ggb](images/200106/ggb.jpg)
+  
   - we walked on it, but we took a wrong side ... the side for bicycles
   - the view here was extraordinary!
 
