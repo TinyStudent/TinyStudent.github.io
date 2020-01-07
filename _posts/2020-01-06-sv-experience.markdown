@@ -23,9 +23,9 @@ author: "Min Su"
 
 - Ride
 
-  ![yeohwan_bicycle](tinystudent.github.io/images/200106/yeohwan_bicycle.jpg)
+  ![yeohwan_bicycle](https://tinystudent.github.io/images/200106/yeohwan_bicycle.jpg)
 
-  ![bicycle_choolbal](tinystudent.github.io/images/200106/bicycle_choolbal.jpg)
+  ![bicycle_choolbal](https://tinystudent.github.io/images/200106/bicycle_choolbal.jpg)
 
 
 ## Non-bicycle Team
@@ -37,13 +37,13 @@ author: "Min Su"
   
 - Souvenir shop
   
-  ![souvenir](tinystudent.github.io/images/200106/souvenir.jpg)
+  ![souvenir](https://tinystudent.github.io/images/200106/souvenir.jpg)
   
   - There were some interesting souvenirs, but it was too expensive to buy
   
 - Ferry
   
-  ![ontheferry](tinystudent.github.io/images/200106/ontheferry.jpg)
+  ![ontheferry](https://tinystudent.github.io/images/200106/ontheferry.jpg)
   
   - we took ferry to go to sausalito, the ferry's route was 'angel island - tiburon - sausalito', so it took about 1 hour
   - the sight on the ferry was great!
@@ -58,7 +58,7 @@ author: "Min Su"
   
 - Golden Gate Bridge
   
-  ![ggb](tinystudent.github.io/images/200106/ggb.jpg)
+  ![ggb](https://tinystudent.github.io/images/200106/ggb.jpg)
   
   - we walked on it, but we took a wrong side ... the side for bicycles
   - the view here was extraordinary!
