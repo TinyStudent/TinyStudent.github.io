@@ -61,7 +61,7 @@ permalink: /about/
         <br>
         2020 SV Bootcamp member
         <br>
-        Github Link: 
+        Github Link: github.com/SeongJaeSong
      </div>
   </p>
   
