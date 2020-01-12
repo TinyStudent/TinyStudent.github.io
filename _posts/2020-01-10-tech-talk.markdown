@@ -7,6 +7,6 @@ author: "Seong Jae"
 ---
 
 # HoJun Park - AirBnB
-### <b><i>SeongJae</i></b>
+#### <b><i>SeongJae</i></b>
   - He said that the difference quality of code between companies isn't exist and code quality is determined by what is major product of company. In previous, i thought bigger company's code is better than smaller company. But I was totally wrong. So I'm surprised at what he said. 
   - And i impressed by his words that if when i grow to senior engineer(he said "get on track"), new technical skills are not what i have to learn and it can resolve my inconvenient.
