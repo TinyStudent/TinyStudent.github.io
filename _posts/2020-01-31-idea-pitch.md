@@ -8,9 +8,8 @@ author: "Min Su"
 
 ### Dinner
 
-- Idea pitch was scheduled to take place at girls' clubhouse
-
 - There were lots of guests
+- It took place on girls' clubhouse
 - Seong Jae, Yeo Hwan, May cooked "Ddeok Bbok E" for almost 20 people
 
 ### Idea Pitch Presentation
