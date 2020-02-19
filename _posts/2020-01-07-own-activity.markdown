@@ -6,8 +6,8 @@ categories: own-activity
 author: "Myoung-hee, Si-hyun"
 ---
 
-### LinkedIn
-- we visited LinkedIn which located in mountainview with Ki-Sang's invitation. 
+## LinkedIn
+- we visited LinkedIn which located in mountainview by Ki-Sang's invitation. 
 
 ## Lunch
 - We ate free lunch in linkedin' cafeteria. Today was taco day as it's tuesday!
