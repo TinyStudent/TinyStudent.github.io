@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Tech Talk with SeungWoo Lee 2020.01.10"
+date:   2020-01-10 10:00:00 -0800
+categories: tech-talk
+author: "Myoung-hee"
+---
+
+# <b>SeungWoo Lee - Facebook<b>
+  
+#### <b><i>Myoung-hee</i></b>
+  - In Facebook, they are evaluated based on their performance, and fired if they are not promoted within two years.
+  - If you set the goal aggressively at first and not reach them, you should explain why you didn't. (Also in "Uber Driver")
+  - Compared to the companies in silicon valley with experience of earning a good grade in school?
+    * Silicon Valley's company also values short-term results as much as Korea. But the standards are fairer than Korea.
+  - How do you resolve complaints about individual evaluations between teams?
+    * In Uber, workers had to compete within the team, but facebook also evaluates relationships and personalities. So Uber had a lot of problems related to personality.
+  - Work-life balance?
+    * Most of them eat their lunch during coding, work late at night or on weekends. Some of them will enjoy and some have a personal life.
+      To better efficiency, Instead of trying to do everything, it may be a good idea to focus on small things and make a difference.
+  - FAANG?
+    * Facebook, Amazon, Apple, Netflix and Google
+  - Higher position, less work?  
+    * Of course, if you in higher positions you can make more money, but more works to do.
+    * In Uber at the time of previous CEO, workers in longer, higher position are forgiven by their situations, play and rest more generously.
+  - Korea VS Silicon Valley?
+    * In Korea, engineers have many night shifts, which makes them physically more tired and less with mental.
+    * In American companies, engineers are eager to get fired, making their minds many times harder and less tired physically. But they treats you as much as you did.
+  - There's two ways after promoted. One is manager who leads the team and the other way is working as an one of the team member.
+    The most important things required to manager is "Is he/she the person who the other people wants to work with?". And also prefered to to have the ability to understand the characteristics of each team member's work.
+    If a team member makes a mistake, the leader who does not notice the mistake in advance will be held accountable.
+  - Who is Zuckerberg?
+    * Idealist but also considers reality, good at management.
+  - Facebook has one concept, why are so many engineers?
+    * There are lot of features, so each part is divided in detail and the engineers concentrates. (ex. Instagram Story-The part that just goes to the camera)
+      Also in Uber, they need a lot of engineers because there is a separate Uber driver app and many servers.
+  - What about collaboration between teams?
+    * It's hard to collaborate with other teams because your performance is important (because you have to consider what you are benefiting from, what you are losing, etc.). 
+      In order to collaborate, managers usually need to negotiate with each other first. So as in Google (difficult..).
+  - Is Facebook easy to move between teams?
+    * Very easy. They encourage team movement inside the company because it can broaden the horizons. 
+      You can also experience it before actual movement. 
+      My opinion is important that managers can't object. 
+  - Does Facebook guarantee a lot of autonomy?
+    * They don't involved in the work of the engineer. Set the lead time at first and watch it, and if it fails, don't give the work again.
+  - Who is Facebook suitable for?
+    * Suitable for those who are capable and who want to do what they want to do and young (because their main item is SNS). Not good for people who work dependently.
+  - Why is Facebook focusing on sns and what is its strategy?
+    * SNS has very high output and monopoly only with server. But it is dangerous if missed once. 
+      So, concentration and choice. Mobile only now, but can be extended later to vr, ar.
